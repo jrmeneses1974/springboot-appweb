@@ -1,4 +1,4 @@
-package com.jrmen.curso.springboot.webapp.springbootweb.models;
+package com.jrmen.curso.springboot.appweb.springbootappweb.models;
 
 public class User {
 

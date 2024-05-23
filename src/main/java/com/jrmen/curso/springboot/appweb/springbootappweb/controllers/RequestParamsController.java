@@ -1,12 +1,12 @@
-package com.jrmen.curso.springboot.webapp.springbootweb.controllers;
+package com.jrmen.curso.springboot.appweb.springbootappweb.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.jrmen.curso.springboot.webapp.springbootweb.models.dto.ParamDto;
-import com.jrmen.curso.springboot.webapp.springbootweb.models.dto.ParamMixDto;
+import com.jrmen.curso.springboot.appweb.springbootappweb.models.dto.ParamDto;
+import com.jrmen.curso.springboot.appweb.springbootappweb.models.dto.ParamMixDto;
 
 import jakarta.servlet.http.HttpServletRequest;
 

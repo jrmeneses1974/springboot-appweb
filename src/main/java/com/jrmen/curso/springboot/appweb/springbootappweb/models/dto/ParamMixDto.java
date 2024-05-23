@@ -1,4 +1,4 @@
-package com.jrmen.curso.springboot.webapp.springbootweb.models.dto;
+package com.jrmen.curso.springboot.appweb.springbootappweb.models.dto;
 
 public class ParamMixDto {
 

@@ -1,4 +1,4 @@
-package com.jrmen.curso.springboot.webapp.springbootweb.controllers;
+package com.jrmen.curso.springboot.appweb.springbootappweb.controllers;
 
 import java.util.HashMap;
 import java.util.List;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.jrmen.curso.springboot.webapp.springbootweb.models.User;
-import com.jrmen.curso.springboot.webapp.springbootweb.models.dto.ParamDto;
+import com.jrmen.curso.springboot.appweb.springbootappweb.models.User;
+import com.jrmen.curso.springboot.appweb.springbootappweb.models.dto.ParamDto;
 
 @RestController
 @RequestMapping("/api/var")

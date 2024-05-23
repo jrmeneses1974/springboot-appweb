@@ -1,4 +1,4 @@
-package com.jrmen.curso.springboot.webapp.springbootweb;
+package com.jrmen.curso.springboot.appweb.springbootappweb;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;

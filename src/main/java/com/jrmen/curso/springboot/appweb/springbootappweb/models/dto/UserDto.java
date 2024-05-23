@@ -1,6 +1,6 @@
-package com.jrmen.curso.springboot.webapp.springbootweb.models.dto;
+package com.jrmen.curso.springboot.appweb.springbootappweb.models.dto;
 
-import com.jrmen.curso.springboot.webapp.springbootweb.models.User;
+import com.jrmen.curso.springboot.appweb.springbootappweb.models.User;
 
 public class UserDto {
 

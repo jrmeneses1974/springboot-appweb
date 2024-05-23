@@ -1,4 +1,4 @@
-package com.jrmen.curso.springboot.webapp.springbootweb.controllers;
+package com.jrmen.curso.springboot.appweb.springbootappweb.controllers;
 
 import java.util.Arrays;
 import java.util.List;
@@ -9,8 +9,7 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 
-import com.jrmen.curso.springboot.webapp.springbootweb.models.User;
-
+import com.jrmen.curso.springboot.appweb.springbootappweb.models.User;
 @Controller
 public class UserController {
 
